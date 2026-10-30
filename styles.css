@@ -100,6 +100,13 @@ a:hover {
   color: #5e0a0a;
 }
 
+a:focus-visible,
+.knapp:focus-visible,
+.falt:focus-visible {
+  outline: 3px solid #1a73e8;
+  outline-offset: 2px
+}
+
 /*
 Brödtext:Bakgrund -> #222222:#fffaf3 -> 15.32:1
 Vit text:Röd knapp -> #ffffff:#8c1010 -> 9.56:1
