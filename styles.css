@@ -104,7 +104,15 @@ a:focus-visible,
 .knapp:focus-visible,
 .falt:focus-visible {
   outline: 3px solid #1a73e8;
-  outline-offset: 2px
+  outline-offset: 2px;
+}
+
+#hero {
+  background-color: #f3e3cf;
+  padding:24px;
+  font-family: system-ui;
+  font-size: 1.125rem;
+  line-height: 1.6;
 }
 
 /*
