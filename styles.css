@@ -83,8 +83,19 @@ address {
   font-style: normal;
 }
 
-h1, h2, h3 {
+h1,
+h2,
+h3 {
   font-family: Georgia, serif;
   font-size: 1.75rem;
   line-height: 1.2;
+}
+
+a,
+.pris {
+  color: #8c1010;
+}
+
+a:hover {
+  color: #5e0a0a;
 }
