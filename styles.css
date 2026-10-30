@@ -99,3 +99,9 @@ a,
 a:hover {
   color: #5e0a0a;
 }
+
+/*
+Brödtext:Bakgrund -> #222222:#fffaf3 -> 15.32:1
+Vit text:Röd knapp -> #ffffff:#8c1010 -> 9.56:1
+Länkfärg:Bakgrund -> #8c1010:#fffaf3 -> 9.2:1
+*/
