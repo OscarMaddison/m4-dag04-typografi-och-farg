@@ -82,3 +82,9 @@ footer a {
 address {
   font-style: normal;
 }
+
+h1, h2, h3 {
+  font-family: Georgia, serif;
+  font-size: 1.75rem;
+  line-height: 1.2;
+}
